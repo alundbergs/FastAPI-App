@@ -1,4 +1,4 @@
-git clone https://github.com/TheGoodGamerGuy/dataforgetest.git
+git clone https://github.com/TheGoodGamerGuy/fastapi-app.git
 cd dataforgetest/
 docker-compose up --build -d
 
